@@ -1,3 +1,45 @@
 body {
     background-color: blanchedalmond;
 }
+div {
+    background-color: rgb(158, 117, 30);
+    box-shadow: black;
+    margin: auto;
+    width: 50%;
+    height: auto;
+    margin-top: 5rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+button {
+    /* margin-top: 10rem; */
+}
+#quoteBtn {
+    height: 50px;
+    color: white;
+    background-color: teal;
+    border: solid 1px white;
+    display: flex;
+    margin: auto;
+}
+#mark {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 150px;
+    margin: 0rem;
+    float: left;
+    margin-left: 1.5rem;
+    float: left;
+    
+}
+#quote {
+    color: white;
+    margin: auto;
+    margin-top: 3.5rem;
+
+}
+#author {
+    color: teal;
+    margin-left: 12rem;
+}
